@@ -1,10 +1,11 @@
-package apps.are.whosaidthat;
+package apps.arw.whosaidthat;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
 import android.app.Activity;
 import android.os.Bundle;
+import apps.arw.whosaidthat.R;
 
 public class TestShuffle extends Activity{    
 	

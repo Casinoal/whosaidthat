@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="apps.are.whosaidthat"
+    package="apps.arw.whosaidthat"
     android:versionCode="3"
     android:versionName="1.2" >
 
@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="apps.are.whosaidthat.MainActivity"
+            android:name="apps.arw.whosaidthat.MainActivity"
             android:configChanges="orientation"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
@@ -25,14 +25,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="apps.are.whosaidthat.MainGame"
+            android:name="apps.arw.whosaidthat.MainGame"
             android:label="@string/title_activity_main_game" />
         <activity
-            android:name="apps.are.whosaidthat.Variable"
+            android:name="apps.arw.whosaidthat.Variable"
             android:label="@string/title_activity_variable" >
         </activity>
         <activity
-            android:name="apps.are.whosaidthat.TestShuffle"
+            android:name="apps.arw.whosaidthat.TestShuffle"
             android:label="@string/title_activity_test_shuffle" >
         </activity>
     </application>

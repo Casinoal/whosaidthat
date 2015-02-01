@@ -22,7 +22,7 @@
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/textView1"
         android:layout_marginTop="19dp"
-        android:src="@drawable/chick"/>
+        android:src="@drawable/animal1"/>
      
     <ImageButton
         android:id="@+id/animal2"
@@ -31,7 +31,7 @@
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/animal1"
         android:layout_marginTop="19dp"
-        android:src="@drawable/cow" />
+        android:src="@drawable/animal2" />
     
     <ImageButton
         android:id="@+id/animal3"
@@ -40,7 +40,7 @@
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/animal2"
         android:layout_marginTop="19dp"
-        android:src="@drawable/horse" />
+        android:src="@drawable/animal3" />
 
      <ImageButton
          android:id="@+id/animal4"
@@ -49,7 +49,7 @@
          android:layout_alignBottom="@+id/animal2"
          android:layout_toRightOf="@+id/animal2"
          android:layout_marginLeft="40dp"
-         android:src="@drawable/pig" />
+         android:src="@drawable/animal4" />
 
      <Button
          android:id="@+id/button1"
